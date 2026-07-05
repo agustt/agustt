@@ -1,3 +1,1 @@
-### Hello there 🌱
-
-Visit my real [repo](https://git.stratus.services/agusttt)
+not much here. visit [my gitlab](https://git.stratus.services/agusttt) instead
