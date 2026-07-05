@@ -1,1 +1,1 @@
-not much here. visit [my gitlab](https://git.stratus.services/agusttt) instead
+not much here. visit [gitlab](https://git.stratus.services/agusttt) instead
